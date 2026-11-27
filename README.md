@@ -96,7 +96,7 @@ javac -version
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/jefferson-dias/resgate_botanico.git
+git clone https://github.com/Jefferson-silva05/resgate_botanico.git
 cd resgate_botanico
 ```
 
