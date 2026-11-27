@@ -2,10 +2,6 @@
 
 Aplicação gráfica 3D em primeira pessoa, desenvolvida em **Java**, que utiliza **Raycasting** para converter um mapa bidimensional em uma cena tridimensional navegável em tempo real. O cenário é o **Bio-Domo**, um complexo de estufas automatizadas atingido por uma crise climática, onde o jogador deve restaurar a **Árvore Central**.
 
-Projeto desenvolvido no âmbito do curso de Análise e Desenvolvimento de Sistemas da **Faculdade Senac**.
-
----
-
 ## Sumário
 
 - [Visão geral](#visão-geral)
@@ -100,8 +96,8 @@ javac -version
 ### 1. Clonar o repositório
 
 ```bash
-git clone <URL-DO-REPOSITORIO>
-cd <NOME-DO-REPOSITORIO>
+git clone https://github.com/jefferson-dias/resgate_botanico.git
+cd resgate_botanico
 ```
 
 ### 2. Compilar
